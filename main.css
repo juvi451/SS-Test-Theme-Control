@@ -3,14 +3,15 @@
   --sn-stylekit-editor-background-color: #fefefe;
   --sn-stylekit-editor-foreground-color: #222222;
   --sn-stylekit-paragraph-text-color: #222222;
-  --sn-stylekit-monospace-font: 'Source Code Pro Medium', monospace !important;
+  --sn-stylekit-monospace-font: 'CommitMono', 'Menlo', monospace !important;
 }
 
 "dock_icon": {
   "type": "circle",
   "background_color": "#222222",
-  "foreground_color": "#ffffff",
+  "foreground_color": "#222222",
   "border_color": "#222222"
 }
+
 
 
