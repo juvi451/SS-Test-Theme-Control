@@ -1,10 +1,18 @@
 {
-  "identifier": "ss.test-theme-control",
-  "name": "SS Test Theme Control",
+  "identifier": "com.github.juvi451.ss-test-theme-control",
+  "name": "Source Code Pro Font",
   "content_type": "SN|Theme",
-  "area": "theme",
+  "area": "themes",
   "version": "1.0.0",
-  "description": "SS Test Theme Control",
+  "description": "Changes the editor font to Source Code Pro",
   "url": "https://juvi451.github.io/SS-Test-Theme-Control/source-code-pro-theme.css",
-  "download_url": "https://github.com/juvi451/SS-Test-Theme-Control/archive/refs/tags/1.0.0.zip",
+  "download_url": "https://github.com/juvi451/SS-Test-Theme-Control/archive/refs/tags/v1.0.0.zip",
+  "latest_url": "https://juvi451.github.io/SS-Test-Theme-Control/ext.json",
+  "marketing_url": "https://github.com/juvi451/SS-Test-Theme-Control",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#1a1a1a",
+    "foreground_color": "#ffffff",
+    "border_color": "#1a1a1a"
+  }
 }
