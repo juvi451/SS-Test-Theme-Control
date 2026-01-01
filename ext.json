@@ -6,6 +6,7 @@
   "version": "1.0.0",
   "description": "SS Test Theme Control",
   "url": "https://juvi451.github.io/SS-Test-Theme-Control/main.css",
+  "download_url": "https://github.com/juvi451/SS-Test-Theme-Control/archive/refs/tags/1.0.0.zip",
   "dock_icon": {
     "type": "circle",
     "background_color": "#ff0000",
