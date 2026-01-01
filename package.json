@@ -1,13 +1,9 @@
 {
   "name": "SS Test Theme Control",
   "version": "1.0.0",
-  "description": "Standard Notes theme that changes editor font to Source Code Pro",
+  "description": "SS Test Theme Control",
   "main": "main.css",
   "sn": {
     "main": "main.css"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/juvi451/SS-Test-Theme-Control"
   }
 }
