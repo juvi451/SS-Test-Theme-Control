@@ -1,5 +1,5 @@
 :root {
-
+  --sn-stylekit-monospace-font: 'Source Code Pro', monospace;
   --background-1: #0f1b24;
   --background-2: #1a2d3c;
   --background-3: #0f1b24;
@@ -80,3 +80,4 @@
 #blocks-editor hr:after {
   background-color: #5a8e87;
 }
+
