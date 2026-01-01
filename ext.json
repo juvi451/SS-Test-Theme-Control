@@ -4,15 +4,12 @@
   "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.0.0",
-  "description": "Changes the editor font to Source Code Pro",
+  "description": "SS Test Theme Control",
   "url": "https://juvi451.github.io/SS-Test-Theme-Control/main.css",
-  "download_url": "https://github.com/juvi451/SS-Test-Theme-Control/archive/refs/tags/v1.0.0.zip",
-  "latest_url": "https://juvi451.github.io/SS-Test-Theme-Control/ext.json",
-  "marketing_url": "https://github.com/juvi451/SS-Test-Theme-Control",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#1a1a1a",
+    "background_color": "#ffffff",
     "foreground_color": "#ffffff",
-    "border_color": "#1a1a1a"
+    "border_color": "#222222"
   }
 }
