@@ -6,3 +6,10 @@
   --sn-stylekit-monospace-font: 'Source Code Pro Medium', monospace !important;
 }
 
+"dock_icon": {
+  "type": "circle",
+  "background_color": "#333333",
+  "foreground_color": "#ffffff",
+  "border_color": "#333333"
+}
+
