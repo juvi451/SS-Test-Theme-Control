@@ -1,5 +1,5 @@
 :root {
-  --sn-stylekit-monospace-font: 'Source Code Pro', monospace;
+  --sn-stylekit-monospace-font: 'Source Code Pro', monospace !important;
   --background-1: #0f1b24;
   --background-2: #1a2d3c;
   --background-3: #0f1b24;
@@ -77,7 +77,14 @@
   --navigation-item-selected-background-color: var(--sn-stylekit-background-color);
 }
 
+
+
 #blocks-editor hr:after {
   background-color: #5a8e87;
 }
+
+* {
+  font-family: 'Source Code Pro', monospace !important;
+}
+
 
