@@ -8,7 +8,7 @@
   "url": "https://juvi451.github.io/SS-Test-Theme-Control/main.css",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#ffffff",
+    "background_color": "#ff0000",
     "foreground_color": "#222222",
     "border_color": "#222222"
   }
