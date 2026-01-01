@@ -1,21 +1,13 @@
 {
-  "name": "sn-source-code-pro-theme",
+  "name": "SS Test Theme Control",
   "version": "1.0.0",
   "description": "Standard Notes theme that changes editor font to Source Code Pro",
-  "main": "index.html",
+  "main": "main.css",
   "sn": {
-    "main": "index.html"
+    "main": "main.css"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/juvi451/SS-Test-Theme-Control"
-  },
-  "keywords": [
-    "standardnotes",
-    "theme",
-    "source-code-pro",
-    "font"
-  ],
-  "author": "juvi451",
-  "license": "MIT"
+  }
 }
