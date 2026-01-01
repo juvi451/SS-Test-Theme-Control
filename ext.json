@@ -1,0 +1,21 @@
+{
+  "name": "sn-source-code-pro-theme",
+  "version": "1.0.0",
+  "description": "Standard Notes theme that changes editor font to Source Code Pro",
+  "main": "source-code-pro-theme.css",
+  "sn": {
+    "main": "source-code-pro-theme.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/sn-source-code-pro-theme"
+  },
+  "keywords": [
+    "standardnotes",
+    "theme",
+    "source-code-pro",
+    "font"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
