@@ -1,7 +1,7 @@
 {
   "name": "test-theme-control",
   "version": "1.0.0",
-  "main": "style.css",
+  "main": "https://juvi451.github.io/SS-Test-Theme-Control/styles.css",
   "author": "Test",
   "publishConfig": {
     "access": "public"
@@ -10,7 +10,7 @@
     "name": "Test Theme Control",
     "content_type": "SN|Theme",
     "area": "themes",
-    "main": "style.css",
+    "main": "https://juvi451.github.io/SS-Test-Theme-Control/styles.css",
     "showInGallery": true
   }
 }
