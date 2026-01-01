@@ -1,0 +1,16 @@
+/**
+ * Source Code Pro Font Theme for Standard Notes
+ * Changes the editor monospace font to Source Code Pro
+ * Version: 1.0.0
+ */
+
+:root {
+  /* Override the monospace font to Source Code Pro */
+  --sn-stylekit-monospace-font: 'Source Code Pro', 'Ubuntu Mono', courier, monospace;
+  
+  /* Editor font size (adjust if needed) */
+  --sn-stylekit-font-size-editor: 1.21rem;
+  
+  /* Optional: Adjust editor line height for better readability */
+  /* --sn-stylekit-editor-line-height: 1.6; */
+}
