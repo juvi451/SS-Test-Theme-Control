@@ -9,7 +9,7 @@
   "dock_icon": {
     "type": "circle",
     "background_color": "#ffffff",
-    "foreground_color": "#ffffff",
+    "foreground_color": "#222222",
     "border_color": "#222222"
   }
 }
